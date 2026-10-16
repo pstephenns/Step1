@@ -1,0 +1,8 @@
+{
+  "name": "GoldCoast Trade",
+  "description": "Ghana's premier barter platform for goods and services. Trade what you have, get what you need, and spend less cash with secure offers and safe exchanges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
